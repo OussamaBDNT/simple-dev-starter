@@ -24,3 +24,18 @@ Finally, install the dependencies by running:
 ```
 yarn install
 ```
+
+You should be good to go now!
+To build the deployment project run:
+```
+yarn build
+```
+
+To start the dev server on port 3000 run:
+```
+yarn start
+```
+
+Enjoy!
+-
+Daniel Jackson
